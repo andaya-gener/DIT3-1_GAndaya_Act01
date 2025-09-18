@@ -1,4 +1,4 @@
-# MY SHORT REFLECTION ABOUT THE LESSONS
+# MY SHORT REFLECTION ON THE LESSONS
 
 Installing Android Studio was not an easy process for me because it took a long time and required downloading many additional components after the installer. Despite the challenge, it taught me the importance of patience and preparation when setting up a development environment.
 
